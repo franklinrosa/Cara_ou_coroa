@@ -7,6 +7,8 @@ A new Flutter project.
 App criado através do curso Flutter do Jamilton Damasceno, 
 
 ### imagem do app
+![tela](https://github.com/franklinrosa/Cara_ou_coroa/assets/97204342/03301cd5-be51-415d-bfde-2f3327d38443)
+![tela2](https://github.com/franklinrosa/Cara_ou_coroa/assets/97204342/3c7ee1e6-0070-4a2f-bb10-f557a82732f9)
 ![App](imagens\tela.png)
 ![App](imagens\tela2.png)
 
